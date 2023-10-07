@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\qs"
+		},
+		{
+			"path": "..\\chat"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "game"
+	}
+}
